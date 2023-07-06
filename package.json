@@ -1,0 +1,11 @@
+{
+  "name": "workit-landing-page",
+  "version": "1.0.0",
+  "description": "Frontend mentor challenge",
+  "main": "index.js",
+  "author": "Pavel Vondra",
+  "license": "MIT",
+  "devDependencies": {
+    "sass": "^1.63.6"
+  }
+}

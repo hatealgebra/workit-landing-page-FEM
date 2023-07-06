@@ -269,6 +269,24 @@ footer {
   }
 }
 
+.my-footer {
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 2rem 1rem;
+    display: block;
+
+    a {
+        color: white;
+        transition: .3s ease-out;
+
+        &:hover {
+            text-decoration: none;
+        }
+    }
+  }
+
 @media (min-width: $tablet-breakpoint) {
   h1 {
     font-size: 6rem;

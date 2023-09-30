@@ -32,15 +32,14 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- Solution URL: [https://github.com/hatealgebra/workit-landing-page-FEM](https://github.com/hatealgebra/workit-landing-page-FEM)
+- Live Site URL: [https://workit-lp-fem-pv.netlify.app](https://workit-lp-fem-pv.netlify.app)
 
 ### Built with
 
 - Semantic HTML5 markup
 - SASS
+- Parcel for bundling
 
 
 ## Author

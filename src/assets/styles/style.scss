@@ -100,6 +100,10 @@ header {
     padding: 3.7rem 1.5rem;
     width: 100%;
 
+    .logo {
+      object-fit: contain;
+    }
+
     a {
       color: $white;
       font-weight: 700;

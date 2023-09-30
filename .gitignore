@@ -21,6 +21,6 @@ node_modules
 dist
 
 # Ignore the compiled css files if you're using Sass
-./src/assets/styles/**.css
-./src/assets/styles/**.css.map
+**.css
+**.css.map
 

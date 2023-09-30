@@ -6,7 +6,8 @@
   "license": "MIT",
   "scripts": {
     "build": "parcel build src/index.html --public-url ./",
-    "sass": "sass --watch ./src/assets/styles:./src/assets/styles"
+    "sass": "sass --watch ./src/assets/styles:./src/assets/styles",
+    "build:live": "yarn run sass && yarn run build"
   },
   "devDependencies": {
     "parcel": "^2.9.3",

@@ -16,3 +16,11 @@
 .prettierignore
 .parcel-cache/
 node_modules
+
+# Ignore the dist folder if you're using Parcel
+dist
+
+# Ignore the compiled css files if you're using Sass
+./src/assets/styles/**.css
+./src/assets/styles/**.css.map
+
